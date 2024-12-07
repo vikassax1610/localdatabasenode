@@ -1,0 +1,1 @@
+Express is a fast, minimalist web application framework for Node.js, used to build web servers and APIs. It simplifies handling routes, middleware, and HTTP requests/responses.
